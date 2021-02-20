@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CountingApp</string>
+
+    <string name="textview_ini">0</string>
+
+    <string name="plus_one">+1</string>
+    <string name="button_plus_five">+5</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_minus_five">-5</string>
+    <string name="button_minus_one">-1</string>
+</resources>
